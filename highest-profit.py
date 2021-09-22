@@ -48,3 +48,14 @@ for row in filtered_data:
 
 
 jsonFile.close()
+
+# printing top-20 records
+
+filtered_data = sorted(filtered_data, key=lambda l:l[-1], reverse=True)
+
+# third print answer
+print("Top 20 records:")
+print(','.join(header))
+
+for i in range(20):
+	print(filtered_data[i])
