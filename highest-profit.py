@@ -1,4 +1,6 @@
 
+# --- PART 1 ---
+
 import csv
 
 filename = 'data.csv'
@@ -36,3 +38,22 @@ for row in data:
 
 # second printed answer
 print(len(filtered_data))
+
+
+# --- PART 2 ---
+
+import json
+
+jsonFile = open('data.json', 'w')
+
+for row in filtered_data:
+
+	row_data = {}
+	for i in range(len(header)):
+		row_data[header[i].strip()] = row[i]
+
+	json.dump(row_data, jsonFile)
+	jsonFile.write("\n")
+
+
+jsonFile.close()
