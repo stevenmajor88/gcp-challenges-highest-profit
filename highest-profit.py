@@ -35,7 +35,7 @@ print(len(filtered_data))
 
 import json
 
-jsonFile = open('data.json', 'w')
+jsonFile = open('data2.json', 'w')
 
 for row in filtered_data:
 
