@@ -2,23 +2,18 @@
 # --- PART 1 ---
 
 import csv
+import re
 
 filename = 'data.csv'
 
 # reading the data from the file
 
-header = []
 data = []
 
-with open(filename) as csv_file:
 
-	d = csv_file.readlines()
-
-	for line in d:
-		if len(header) == 0:
-			header = line.split(',')
-		else:
-			data.append(line.split(','))
+import csv
+data = list(csv.reader(open(filename)))
+header = data.pop(0)
 
 # first printed answer
 print(len(data))

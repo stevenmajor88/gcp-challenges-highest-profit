@@ -146,6 +146,7 @@
 {"Revenue (in millions)": "217", "Company": "USG", "Profit (in millions)": 32.4, "Rank": "146", "Year": "1955"}
 {"Revenue (in millions)": "217", "Company": "GenCorp", "Profit (in millions)": 4.5, "Rank": "147", "Year": "1955"}
 {"Revenue (in millions)": "215.9", "Company": "Anheuser-Busch", "Profit (in millions)": 12.8, "Rank": "148", "Year": "1955"}
+{"Revenue (in millions)": "215.4", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 4.2, "Rank": "149", "Year": "1955"}
 {"Revenue (in millions)": "212.5", "Company": "Continental Baking", "Profit (in millions)": 5.7, "Rank": "150", "Year": "1955"}
 {"Revenue (in millions)": "212.4", "Company": "Kaiser Industries", "Profit (in millions)": -35.5, "Rank": "151", "Year": "1955"}
 {"Revenue (in millions)": "212.3", "Company": "Aeroquip-Vickers", "Profit (in millions)": 24.0, "Rank": "152", "Year": "1955"}
@@ -267,9 +268,11 @@
 {"Revenue (in millions)": "111.2", "Company": "Link-Belt", "Profit (in millions)": 5.4, "Rank": "269", "Year": "1955"}
 {"Revenue (in millions)": "111", "Company": "Scovill", "Profit (in millions)": 4.4, "Rank": "270", "Year": "1955"}
 {"Revenue (in millions)": "110.5", "Company": "Cincinnati Milacron", "Profit (in millions)": 9.3, "Rank": "271", "Year": "1955"}
+{"Revenue (in millions)": "109.9", "Company": "Parke, Davis", "Profit (in millions)": 10.5, "Rank": "272", "Year": "1955"}
 {"Revenue (in millions)": "109.9", "Company": "Abex", "Profit (in millions)": 4.3, "Rank": "273", "Year": "1955"}
 {"Revenue (in millions)": "109.5", "Company": "Budd", "Profit (in millions)": 9.6, "Rank": "274", "Year": "1955"}
 {"Revenue (in millions)": "108.7", "Company": "Anaconda Wire & Cable", "Profit (in millions)": 4.7, "Rank": "275", "Year": "1955"}
+{"Revenue (in millions)": "108", "Company": "Fairbanks, Morse", "Profit (in millions)": 2.5, "Rank": "276", "Year": "1955"}
 {"Revenue (in millions)": "107.9", "Company": "CVS", "Profit (in millions)": 6.0, "Rank": "277", "Year": "1955"}
 {"Revenue (in millions)": "106.7", "Company": "Allied Mills", "Profit (in millions)": 3.2, "Rank": "278", "Year": "1955"}
 {"Revenue (in millions)": "106", "Company": "Bridgeport Brass", "Profit (in millions)": 5.1, "Rank": "279", "Year": "1955"}
@@ -396,6 +399,7 @@
 {"Revenue (in millions)": "65.1", "Company": "Solar Aircraft", "Profit (in millions)": 2.0, "Rank": "404", "Year": "1955"}
 {"Revenue (in millions)": "64.9", "Company": "Tennessee Corp.", "Profit (in millions)": 6.5, "Rank": "405", "Year": "1955"}
 {"Revenue (in millions)": "64.8", "Company": "Crowell-Collier Publishing", "Profit (in millions)": -2.4, "Rank": "406", "Year": "1955"}
+{"Revenue (in millions)": "64.5", "Company": "American Zinc, Lead & Smelting", "Profit (in millions)": 1.8, "Rank": "407", "Year": "1955"}
 {"Revenue (in millions)": "64.3", "Company": "Georgia-Pacific", "Profit (in millions)": 1.8, "Rank": "408", "Year": "1955"}
 {"Revenue (in millions)": "64.1", "Company": "International Silver", "Profit (in millions)": 3.2, "Rank": "409", "Year": "1955"}
 {"Revenue (in millions)": "63.6", "Company": "Niles-Bement-Pond", "Profit (in millions)": 4.3, "Rank": "410", "Year": "1955"}
@@ -621,6 +625,7 @@
 {"Revenue (in millions)": "268.1", "Company": "Kaisertech", "Profit (in millions)": 28.6, "Rank": "131", "Year": "1956"}
 {"Revenue (in millions)": "264.6", "Company": "FMC", "Profit (in millions)": 14.9, "Rank": "132", "Year": "1956"}
 {"Revenue (in millions)": "262.4", "Company": "Furniture Brands Intl.", "Profit (in millions)": 10.4, "Rank": "133", "Year": "1956"}
+{"Revenue (in millions)": "261.9", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 5.4, "Rank": "134", "Year": "1956"}
 {"Revenue (in millions)": "259.8", "Company": "National Supply", "Profit (in millions)": 11.4, "Rank": "135", "Year": "1956"}
 {"Revenue (in millions)": "259.4", "Company": "American Viscose", "Profit (in millions)": 24.7, "Rank": "136", "Year": "1956"}
 {"Revenue (in millions)": "258.7", "Company": "USG", "Profit (in millions)": 40.4, "Rank": "137", "Year": "1956"}
@@ -757,6 +762,7 @@
 {"Revenue (in millions)": "128.7", "Company": "General Host", "Profit (in millions)": 2.1, "Rank": "269", "Year": "1956"}
 {"Revenue (in millions)": "128.6", "Company": "WestPoint Stevens", "Profit (in millions)": 5.1, "Rank": "270", "Year": "1956"}
 {"Revenue (in millions)": "127.1", "Company": "Keebler", "Profit (in millions)": 3.6, "Rank": "271", "Year": "1956"}
+{"Revenue (in millions)": "123.1", "Company": "Parke, Davis", "Profit (in millions)": 14.3, "Rank": "272", "Year": "1956"}
 {"Revenue (in millions)": "123", "Company": "Union Camp", "Profit (in millions)": 14.3, "Rank": "273", "Year": "1956"}
 {"Revenue (in millions)": "122.5", "Company": "Newport News Shipbuilding", "Profit (in millions)": 4.8, "Rank": "274", "Year": "1956"}
 {"Revenue (in millions)": "121.8", "Company": "Bemis", "Profit (in millions)": 2.1, "Rank": "275", "Year": "1956"}
@@ -770,6 +776,7 @@
 {"Revenue (in millions)": "113.8", "Company": "Stewart-Warner", "Profit (in millions)": 6.2, "Rank": "283", "Year": "1956"}
 {"Revenue (in millions)": "113.8", "Company": "Anchor Hocking", "Profit (in millions)": 6.1, "Rank": "284", "Year": "1956"}
 {"Revenue (in millions)": "113", "Company": "Crown Holdings", "Profit (in millions)": 1.8, "Rank": "285", "Year": "1956"}
+{"Revenue (in millions)": "111.9", "Company": "Fairbanks, Morse", "Profit (in millions)": 2.7, "Rank": "286", "Year": "1956"}
 {"Revenue (in millions)": "111.3", "Company": "U.S. Pipe & Foundry", "Profit (in millions)": 11.3, "Rank": "287", "Year": "1956"}
 {"Revenue (in millions)": "110.3", "Company": "Maxus Energy", "Profit (in millions)": 8.4, "Rank": "288", "Year": "1956"}
 {"Revenue (in millions)": "109.9", "Company": "Interlake", "Profit (in millions)": 6.2, "Rank": "289", "Year": "1956"}
@@ -868,6 +875,7 @@
 {"Revenue (in millions)": "77.5", "Company": "Virginia-Carolina Chemical", "Profit (in millions)": 2.4, "Rank": "383", "Year": "1956"}
 {"Revenue (in millions)": "77", "Company": "Falstaff Brewing", "Profit (in millions)": 4.4, "Rank": "384", "Year": "1956"}
 {"Revenue (in millions)": "77", "Company": "Beech Aircraft", "Profit (in millions)": 3.6, "Rank": "385", "Year": "1956"}
+{"Revenue (in millions)": "76.7", "Company": "American Zinc, Lead & Smelting", "Profit (in millions)": 2.6, "Rank": "386", "Year": "1956"}
 {"Revenue (in millions)": "76.7", "Company": "McGraw-Hill", "Profit (in millions)": 6.3, "Rank": "387", "Year": "1956"}
 {"Revenue (in millions)": "76.4", "Company": "Bulova Watch", "Profit (in millions)": 3.0, "Rank": "388", "Year": "1956"}
 {"Revenue (in millions)": "76.2", "Company": "Kroehler Manufacturing", "Profit (in millions)": 4.1, "Rank": "389", "Year": "1956"}
@@ -1114,6 +1122,7 @@
 {"Revenue (in millions)": "303", "Company": "Studebaker", "Profit (in millions)": -103.3, "Rank": "130", "Year": "1957"}
 {"Revenue (in millions)": "302.2", "Company": "FMC", "Profit (in millions)": 15.9, "Rank": "131", "Year": "1957"}
 {"Revenue (in millions)": "295.5", "Company": "Wyeth", "Profit (in millions)": 31.2, "Rank": "132", "Year": "1957"}
+{"Revenue (in millions)": "292.5", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 8.0, "Rank": "133", "Year": "1957"}
 {"Revenue (in millions)": "291.1", "Company": "Cudahy", "Profit (in millions)": 6.1, "Rank": "134", "Year": "1957"}
 {"Revenue (in millions)": "291", "Company": "Colgate-Palmolive", "Profit (in millions)": 10.5, "Rank": "135", "Year": "1957"}
 {"Revenue (in millions)": "290.6", "Company": "M. Lowenstein", "Profit (in millions)": 5.7, "Rank": "136", "Year": "1957"}
@@ -1254,7 +1263,9 @@
 {"Revenue (in millions)": "137.9", "Company": "ITT Rayonier", "Profit (in millions)": 14.0, "Rank": "272", "Year": "1957"}
 {"Revenue (in millions)": "137.1", "Company": "Granite City Steel", "Profit (in millions)": 15.1, "Rank": "273", "Year": "1957"}
 {"Revenue (in millions)": "137.1", "Company": "Keebler", "Profit (in millions)": 3.8, "Rank": "274", "Year": "1957"}
+{"Revenue (in millions)": "135", "Company": "Fairbanks, Morse", "Profit (in millions)": 3.9, "Rank": "275", "Year": "1957"}
 {"Revenue (in millions)": "134.2", "Company": "Interlake", "Profit (in millions)": 7.0, "Rank": "276", "Year": "1957"}
+{"Revenue (in millions)": "134.1", "Company": "Parke, Davis", "Profit (in millions)": 17.6, "Rank": "277", "Year": "1957"}
 {"Revenue (in millions)": "133.7", "Company": "Diamond International", "Profit (in millions)": 8.9, "Rank": "278", "Year": "1957"}
 {"Revenue (in millions)": "133.7", "Company": "GAF", "Profit (in millions)": 5.1, "Rank": "279", "Year": "1957"}
 {"Revenue (in millions)": "133.3", "Company": "WestPoint Stevens", "Profit (in millions)": 5.6, "Rank": "280", "Year": "1957"}
@@ -1385,6 +1396,7 @@
 {"Revenue (in millions)": "78.1", "Company": "Briggs & Stratton", "Profit (in millions)": 8.0, "Rank": "406", "Year": "1957"}
 {"Revenue (in millions)": "78.1", "Company": "Minnesota & Ontario Paper", "Profit (in millions)": 7.7, "Rank": "407", "Year": "1957"}
 {"Revenue (in millions)": "77.7", "Company": "Ideal Basic Industries", "Profit (in millions)": 19.2, "Rank": "408", "Year": "1957"}
+{"Revenue (in millions)": "76.8", "Company": "American Zinc, Lead & Smelting", "Profit (in millions)": 3.2, "Rank": "409", "Year": "1957"}
 {"Revenue (in millions)": "76.6", "Company": "Lees (James) & Sons", "Profit (in millions)": 4.2, "Rank": "410", "Year": "1957"}
 {"Revenue (in millions)": "76.5", "Company": "Celotex", "Profit (in millions)": 5.9, "Rank": "411", "Year": "1957"}
 {"Revenue (in millions)": "76.4", "Company": "Ruberoid", "Profit (in millions)": 4.3, "Rank": "412", "Year": "1957"}
@@ -1613,6 +1625,7 @@
 {"Revenue (in millions)": "310.7", "Company": "Kimberly-Clark", "Profit (in millions)": 24.8, "Rank": "136", "Year": "1958"}
 {"Revenue (in millions)": "308.3", "Company": "Manville", "Profit (in millions)": 17.8, "Rank": "137", "Year": "1958"}
 {"Revenue (in millions)": "307.9", "Company": "Continental Baking", "Profit (in millions)": 7.8, "Rank": "138", "Year": "1958"}
+{"Revenue (in millions)": "302.7", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 3.7, "Rank": "139", "Year": "1958"}
 {"Revenue (in millions)": "302.6", "Company": "Quaker Oats", "Profit (in millions)": 12.1, "Rank": "140", "Year": "1958"}
 {"Revenue (in millions)": "300.2", "Company": "National Supply", "Profit (in millions)": 15.3, "Rank": "141", "Year": "1958"}
 {"Revenue (in millions)": "296.8", "Company": "Coca-Cola", "Profit (in millions)": 29.9, "Rank": "142", "Year": "1958"}
@@ -1725,6 +1738,7 @@
 {"Revenue (in millions)": "164.4", "Company": "Dan River", "Profit (in millions)": 5.7, "Rank": "251", "Year": "1958"}
 {"Revenue (in millions)": "163.5", "Company": "Link-Belt", "Profit (in millions)": 10.1, "Rank": "252", "Year": "1958"}
 {"Revenue (in millions)": "163.3", "Company": "Owens Corning", "Profit (in millions)": 9.0, "Rank": "253", "Year": "1958"}
+{"Revenue (in millions)": "162.3", "Company": "Parke, Davis", "Profit (in millions)": 27.9, "Rank": "254", "Year": "1958"}
 {"Revenue (in millions)": "162", "Company": "Lorillard", "Profit (in millions)": 10.8, "Rank": "255", "Year": "1958"}
 {"Revenue (in millions)": "161.1", "Company": "Admiral", "Profit (in millions)": 1.0, "Rank": "256", "Year": "1958"}
 {"Revenue (in millions)": "160.7", "Company": "Union Camp", "Profit (in millions)": 18.1, "Rank": "257", "Year": "1958"}
@@ -1781,6 +1795,7 @@
 {"Revenue (in millions)": "121.5", "Company": "Bemis", "Profit (in millions)": 1.8, "Rank": "308", "Year": "1958"}
 {"Revenue (in millions)": "121.3", "Company": "Island Creek Coal", "Profit (in millions)": 9.4, "Rank": "309", "Year": "1958"}
 {"Revenue (in millions)": "121.1", "Company": "Copperweld Steel", "Profit (in millions)": 2.8, "Rank": "310", "Year": "1958"}
+{"Revenue (in millions)": "120.3", "Company": "Fairbanks, Morse", "Profit (in millions)": 2.6, "Rank": "311", "Year": "1958"}
 {"Revenue (in millions)": "120", "Company": "R.R. Donnelley & Sons", "Profit (in millions)": 8.1, "Rank": "312", "Year": "1958"}
 {"Revenue (in millions)": "119.2", "Company": "LTV", "Profit (in millions)": 2.5, "Rank": "313", "Year": "1958"}
 {"Revenue (in millions)": "119.1", "Company": "PepsiCo", "Profit (in millions)": 9.6, "Rank": "314", "Year": "1958"}
@@ -2107,6 +2122,7 @@
 {"Revenue (in millions)": "309.2", "Company": "Coca-Cola", "Profit (in millions)": 30.0, "Rank": "136", "Year": "1959"}
 {"Revenue (in millions)": "304.1", "Company": "Manville", "Profit (in millions)": 21.9, "Rank": "137", "Year": "1959"}
 {"Revenue (in millions)": "301.5", "Company": "Rath Packing", "Profit (in millions)": 1.1, "Rank": "138", "Year": "1959"}
+{"Revenue (in millions)": "296", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 2.7, "Rank": "139", "Year": "1959"}
 {"Revenue (in millions)": "294.9", "Company": "ACF Industries", "Profit (in millions)": 7.9, "Rank": "140", "Year": "1959"}
 {"Revenue (in millions)": "293.8", "Company": "H.J. Heinz", "Profit (in millions)": 9.3, "Rank": "141", "Year": "1959"}
 {"Revenue (in millions)": "292.2", "Company": "Unisys", "Profit (in millions)": 6.4, "Rank": "142", "Year": "1959"}
@@ -2196,6 +2212,7 @@
 {"Revenue (in millions)": "176.6", "Company": "Rohm & Haas", "Profit (in millions)": 14.5, "Rank": "226", "Year": "1959"}
 {"Revenue (in millions)": "175.3", "Company": "BOC", "Profit (in millions)": 13.3, "Rank": "227", "Year": "1959"}
 {"Revenue (in millions)": "173", "Company": "Chemstrand", "Profit (in millions)": 18.4, "Rank": "228", "Year": "1959"}
+{"Revenue (in millions)": "172.6", "Company": "Parke, Davis", "Profit (in millions)": 28.0, "Rank": "229", "Year": "1959"}
 {"Revenue (in millions)": "171.6", "Company": "Newport News Shipbuilding", "Profit (in millions)": 6.7, "Rank": "230", "Year": "1959"}
 {"Revenue (in millions)": "171.4", "Company": "McLouth Steel", "Profit (in millions)": 10.0, "Rank": "231", "Year": "1959"}
 {"Revenue (in millions)": "170.5", "Company": "Ingersoll-Rand", "Profit (in millions)": 26.4, "Rank": "232", "Year": "1959"}
@@ -2341,6 +2358,7 @@
 {"Revenue (in millions)": "90.6", "Company": "United Engineering & Foundry", "Profit (in millions)": 6.9, "Rank": "373", "Year": "1959"}
 {"Revenue (in millions)": "90", "Company": "Island Creek Coal", "Profit (in millions)": 4.7, "Rank": "374", "Year": "1959"}
 {"Revenue (in millions)": "89.7", "Company": "Mohasco", "Profit (in millions)": 7.6, "Rank": "375", "Year": "1959"}
+{"Revenue (in millions)": "89.7", "Company": "Fairbanks, Morse", "Profit (in millions)": 0.8, "Rank": "376", "Year": "1959"}
 {"Revenue (in millions)": "89.5", "Company": "Joy Technologies", "Profit (in millions)": 4.2, "Rank": "377", "Year": "1959"}
 {"Revenue (in millions)": "89", "Company": "Thiokol", "Profit (in millions)": 3.0, "Rank": "378", "Year": "1959"}
 {"Revenue (in millions)": "88.4", "Company": "Certainteed", "Profit (in millions)": 1.9, "Rank": "379", "Year": "1959"}
@@ -2616,6 +2634,7 @@
 {"Revenue (in millions)": "297.7", "Company": "Johnson & Johnson", "Profit (in millions)": 15.4, "Rank": "151", "Year": "1960"}
 {"Revenue (in millions)": "297.4", "Company": "Mack Trucks", "Profit (in millions)": 15.8, "Rank": "152", "Year": "1960"}
 {"Revenue (in millions)": "297.2", "Company": "Scott Paper", "Profit (in millions)": 24.8, "Rank": "153", "Year": "1960"}
+{"Revenue (in millions)": "296.2", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 5.8, "Rank": "154", "Year": "1960"}
 {"Revenue (in millions)": "296", "Company": "Anheuser-Busch", "Profit (in millions)": 13.0, "Rank": "155", "Year": "1960"}
 {"Revenue (in millions)": "292.5", "Company": "Altria Group", "Profit (in millions)": 17.5, "Rank": "156", "Year": "1960"}
 {"Revenue (in millions)": "290.6", "Company": "Armstrong Holdings", "Profit (in millions)": 19.2, "Rank": "157", "Year": "1960"}
@@ -2697,6 +2716,7 @@
 {"Revenue (in millions)": "193.4", "Company": "Case", "Profit (in millions)": 6.2, "Rank": "233", "Year": "1960"}
 {"Revenue (in millions)": "193.2", "Company": "Texas Instruments", "Profit (in millions)": 14.1, "Rank": "234", "Year": "1960"}
 {"Revenue (in millions)": "192", "Company": "Georgia-Pacific", "Profit (in millions)": 14.1, "Rank": "235", "Year": "1960"}
+{"Revenue (in millions)": "191.5", "Company": "Parke, Davis", "Profit (in millions)": 31.0, "Rank": "236", "Year": "1960"}
 {"Revenue (in millions)": "191.3", "Company": "Rohr", "Profit (in millions)": 2.6, "Rank": "237", "Year": "1960"}
 {"Revenue (in millions)": "191.1", "Company": "Newport News Shipbuilding", "Profit (in millions)": 7.8, "Rank": "238", "Year": "1960"}
 {"Revenue (in millions)": "190.3", "Company": "Cone Mills", "Profit (in millions)": 5.2, "Rank": "239", "Year": "1960"}
@@ -3120,6 +3140,7 @@
 {"Revenue (in millions)": "296.7", "Company": "Rath Packing", "Profit (in millions)": 1.4, "Rank": "158", "Year": "1961"}
 {"Revenue (in millions)": "296.5", "Company": "Furniture Brands Intl.", "Profit (in millions)": 8.9, "Rank": "159", "Year": "1961"}
 {"Revenue (in millions)": "295.8", "Company": "Brown Shoe", "Profit (in millions)": 11.1, "Rank": "160", "Year": "1961"}
+{"Revenue (in millions)": "294.7", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 4.2, "Rank": "161", "Year": "1961"}
 {"Revenue (in millions)": "294.1", "Company": "Aeroquip-Vickers", "Profit (in millions)": 43.8, "Rank": "162", "Year": "1961"}
 {"Revenue (in millions)": "291.5", "Company": "Armstrong Holdings", "Profit (in millions)": 16.2, "Rank": "163", "Year": "1961"}
 {"Revenue (in millions)": "289", "Company": "Richfield Oil", "Profit (in millions)": 28.7, "Rank": "164", "Year": "1961"}
@@ -3192,6 +3213,7 @@
 {"Revenue (in millions)": "206.7", "Company": "American Viscose", "Profit (in millions)": 6.8, "Rank": "231", "Year": "1961"}
 {"Revenue (in millions)": "202.9", "Company": "Cannon Mills", "Profit (in millions)": 13.1, "Rank": "232", "Year": "1961"}
 {"Revenue (in millions)": "202.5", "Company": "BOC", "Profit (in millions)": 14.7, "Rank": "233", "Year": "1961"}
+{"Revenue (in millions)": "200", "Company": "Parke, Davis", "Profit (in millions)": 30.5, "Rank": "234", "Year": "1961"}
 {"Revenue (in millions)": "197.6", "Company": "Campbell Taggart", "Profit (in millions)": 9.3, "Rank": "235", "Year": "1961"}
 {"Revenue (in millions)": "197.5", "Company": "Glidden", "Profit (in millions)": 6.7, "Rank": "236", "Year": "1961"}
 {"Revenue (in millions)": "196.8", "Company": "Clark Equipment", "Profit (in millions)": 6.7, "Rank": "237", "Year": "1961"}
@@ -3634,6 +3656,7 @@
 {"Revenue (in millions)": "273.4", "Company": "Koppers", "Profit (in millions)": 6.7, "Rank": "176", "Year": "1962"}
 {"Revenue (in millions)": "272.7", "Company": "USG", "Profit (in millions)": 36.7, "Rank": "177", "Year": "1962"}
 {"Revenue (in millions)": "272.5", "Company": "Kellogg", "Profit (in millions)": 22.3, "Rank": "178", "Year": "1962"}
+{"Revenue (in millions)": "270", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 2.6, "Rank": "179", "Year": "1962"}
 {"Revenue (in millions)": "268.4", "Company": "Rath Packing", "Profit (in millions)": -1.9, "Rank": "180", "Year": "1962"}
 {"Revenue (in millions)": "267.5", "Company": "Northrop Grumman", "Profit (in millions)": 8.7, "Rank": "181", "Year": "1962"}
 {"Revenue (in millions)": "266.3", "Company": "Carrier", "Profit (in millions)": 7.4, "Rank": "182", "Year": "1962"}
@@ -3705,6 +3728,7 @@
 {"Revenue (in millions)": "189", "Company": "Studebaker-Worthington", "Profit (in millions)": 6.0, "Rank": "248", "Year": "1962"}
 {"Revenue (in millions)": "188.3", "Company": "National Sugar Refining", "Profit (in millions)": 0.1, "Rank": "249", "Year": "1962"}
 {"Revenue (in millions)": "185.1", "Company": "Avon Products", "Profit (in millions)": 20.8, "Rank": "250", "Year": "1962"}
+{"Revenue (in millions)": "184.3", "Company": "Parke, Davis", "Profit (in millions)": 22.3, "Rank": "251", "Year": "1962"}
 {"Revenue (in millions)": "183.1", "Company": "Admiral", "Profit (in millions)": 2.9, "Rank": "252", "Year": "1962"}
 {"Revenue (in millions)": "182", "Company": "Farmland Industries", "Profit (in millions)": 13.1, "Rank": "253", "Year": "1962"}
 {"Revenue (in millions)": "181.4", "Company": "Ingersoll-Rand", "Profit (in millions)": 23.8, "Rank": "254", "Year": "1962"}
@@ -4138,6 +4162,7 @@
 {"Revenue (in millions)": "287.4", "Company": "Sherwin-Williams", "Profit (in millions)": 14.5, "Rank": "184", "Year": "1963"}
 {"Revenue (in millions)": "287.4", "Company": "BOC", "Profit (in millions)": 16.4, "Rank": "185", "Year": "1963"}
 {"Revenue (in millions)": "286.6", "Company": "Eaton", "Profit (in millions)": 14.2, "Rank": "186", "Year": "1963"}
+{"Revenue (in millions)": "286.2", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 3.0, "Rank": "187", "Year": "1963"}
 {"Revenue (in millions)": "280.9", "Company": "Dart Industries", "Profit (in millions)": 6.3, "Rank": "188", "Year": "1963"}
 {"Revenue (in millions)": "277.2", "Company": "Timken", "Profit (in millions)": 25.1, "Rank": "189", "Year": "1963"}
 {"Revenue (in millions)": "276.6", "Company": "Westvaco", "Profit (in millions)": 9.8, "Rank": "190", "Year": "1963"}
@@ -4220,6 +4245,7 @@
 {"Revenue (in millions)": "183.5", "Company": "GK Technologies", "Profit (in millions)": 9.4, "Rank": "267", "Year": "1963"}
 {"Revenue (in millions)": "183.2", "Company": "Admiral", "Profit (in millions)": 2.0, "Rank": "268", "Year": "1963"}
 {"Revenue (in millions)": "183", "Company": "Hershey Foods", "Profit (in millions)": 22.0, "Rank": "269", "Year": "1963"}
+{"Revenue (in millions)": "181.7", "Company": "Parke, Davis", "Profit (in millions)": 19.1, "Rank": "270", "Year": "1963"}
 {"Revenue (in millions)": "180.2", "Company": "US Pharmaceuticals", "Profit (in millions)": 30.5, "Rank": "271", "Year": "1963"}
 {"Revenue (in millions)": "179.4", "Company": "Blaw-Knox", "Profit (in millions)": 3.9, "Rank": "272", "Year": "1963"}
 {"Revenue (in millions)": "179.4", "Company": "GAF", "Profit (in millions)": 9.6, "Rank": "273", "Year": "1963"}
@@ -4654,6 +4680,7 @@
 {"Revenue (in millions)": "278.8", "Company": "Flintkote", "Profit (in millions)": 13.4, "Rank": "202", "Year": "1964"}
 {"Revenue (in millions)": "278.1", "Company": "Diamond International", "Profit (in millions)": 15.9, "Rank": "203", "Year": "1964"}
 {"Revenue (in millions)": "276.5", "Company": "Texas Instruments", "Profit (in millions)": 12.1, "Rank": "204", "Year": "1964"}
+{"Revenue (in millions)": "276.3", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 3.1, "Rank": "205", "Year": "1964"}
 {"Revenue (in millions)": "274.2", "Company": "Owens Corning", "Profit (in millions)": 12.5, "Rank": "206", "Year": "1964"}
 {"Revenue (in millions)": "271.4", "Company": "Thiokol", "Profit (in millions)": 5.5, "Rank": "207", "Year": "1964"}
 {"Revenue (in millions)": "271.4", "Company": "Rath Packing", "Profit (in millions)": 0.8, "Rank": "208", "Year": "1964"}
@@ -4730,6 +4757,7 @@
 {"Revenue (in millions)": "190.9", "Company": "Studebaker-Worthington", "Profit (in millions)": 4.2, "Rank": "279", "Year": "1964"}
 {"Revenue (in millions)": "190.8", "Company": "Continental Motors", "Profit (in millions)": 3.2, "Rank": "280", "Year": "1964"}
 {"Revenue (in millions)": "190.1", "Company": "Midland-Ross", "Profit (in millions)": 7.6, "Rank": "281", "Year": "1964"}
+{"Revenue (in millions)": "189.2", "Company": "Parke, Davis", "Profit (in millions)": 22.2, "Rank": "282", "Year": "1964"}
 {"Revenue (in millions)": "185.4", "Company": "Blaw-Knox", "Profit (in millions)": 3.1, "Rank": "283", "Year": "1964"}
 {"Revenue (in millions)": "185.1", "Company": "Staley Continental", "Profit (in millions)": 5.5, "Rank": "284", "Year": "1964"}
 {"Revenue (in millions)": "184.2", "Company": "Imcera Group", "Profit (in millions)": 10.3, "Rank": "285", "Year": "1964"}
@@ -5160,6 +5188,7 @@
 {"Revenue (in millions)": "292.6", "Company": "Allegheny International", "Profit (in millions)": 15.9, "Rank": "210", "Year": "1965"}
 {"Revenue (in millions)": "291.7", "Company": "Archer Daniels Midland", "Profit (in millions)": 3.3, "Rank": "211", "Year": "1965"}
 {"Revenue (in millions)": "291", "Company": "Walter Industries", "Profit (in millions)": 5.7, "Rank": "212", "Year": "1965"}
+{"Revenue (in millions)": "289.7", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 6.1, "Rank": "213", "Year": "1965"}
 {"Revenue (in millions)": "286.7", "Company": "Merck", "Profit (in millions)": 44.9, "Rank": "214", "Year": "1965"}
 {"Revenue (in millions)": "284", "Company": "Dart Industries", "Profit (in millions)": 16.3, "Rank": "215", "Year": "1965"}
 {"Revenue (in millions)": "283.4", "Company": "Crucible Steel", "Profit (in millions)": 9.8, "Rank": "216", "Year": "1965"}
@@ -5236,6 +5265,7 @@
 {"Revenue (in millions)": "208.7", "Company": "USM", "Profit (in millions)": 10.2, "Rank": "287", "Year": "1965"}
 {"Revenue (in millions)": "207.1", "Company": "Hershey Foods", "Profit (in millions)": 22.7, "Rank": "288", "Year": "1965"}
 {"Revenue (in millions)": "205.1", "Company": "Stokely-Van Camp", "Profit (in millions)": 4.4, "Rank": "289", "Year": "1965"}
+{"Revenue (in millions)": "204.6", "Company": "Parke, Davis", "Profit (in millions)": 26.2, "Rank": "290", "Year": "1965"}
 {"Revenue (in millions)": "200.8", "Company": "Sunshine Biscuits", "Profit (in millions)": 7.3, "Rank": "291", "Year": "1965"}
 {"Revenue (in millions)": "199.7", "Company": "Engelhard Industries", "Profit (in millions)": 5.4, "Rank": "292", "Year": "1965"}
 {"Revenue (in millions)": "197.2", "Company": "Revlon", "Profit (in millions)": 10.9, "Rank": "293", "Year": "1965"}
@@ -5674,6 +5704,7 @@
 {"Revenue (in millions)": "304", "Company": "Glidden", "Profit (in millions)": 10.5, "Rank": "227", "Year": "1966"}
 {"Revenue (in millions)": "303.3", "Company": "Sterling Drug", "Profit (in millions)": 33.6, "Rank": "228", "Year": "1966"}
 {"Revenue (in millions)": "302.5", "Company": "GK Technologies", "Profit (in millions)": 21.2, "Rank": "229", "Year": "1966"}
+{"Revenue (in millions)": "300.7", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 2.5, "Rank": "230", "Year": "1966"}
 {"Revenue (in millions)": "299.1", "Company": "Admiral", "Profit (in millions)": 6.5, "Rank": "231", "Year": "1966"}
 {"Revenue (in millions)": "297.9", "Company": "Essex International", "Profit (in millions)": 13.1, "Rank": "232", "Year": "1966"}
 {"Revenue (in millions)": "296.5", "Company": "Grinnell", "Profit (in millions)": 15.4, "Rank": "233", "Year": "1966"}
@@ -5739,6 +5770,7 @@
 {"Revenue (in millions)": "230.7", "Company": "Campbell Taggart", "Profit (in millions)": 6.0, "Rank": "293", "Year": "1966"}
 {"Revenue (in millions)": "229.1", "Company": "USM", "Profit (in millions)": 13.0, "Rank": "294", "Year": "1966"}
 {"Revenue (in millions)": "228.7", "Company": "R.R. Donnelley & Sons", "Profit (in millions)": 20.5, "Rank": "295", "Year": "1966"}
+{"Revenue (in millions)": "224.6", "Company": "Parke, Davis", "Profit (in millions)": 32.7, "Rank": "296", "Year": "1966"}
 {"Revenue (in millions)": "223.1", "Company": "Stokely-Van Camp", "Profit (in millions)": 5.5, "Rank": "297", "Year": "1966"}
 {"Revenue (in millions)": "220.9", "Company": "Staley Continental", "Profit (in millions)": 8.4, "Rank": "298", "Year": "1966"}
 {"Revenue (in millions)": "218.8", "Company": "Schenley Industries", "Profit (in millions)": 24.0, "Rank": "299", "Year": "1966"}
@@ -5891,6 +5923,7 @@
 {"Revenue (in millions)": "125.5", "Company": "Great Western Sugar", "Profit (in millions)": 9.4, "Rank": "446", "Year": "1966"}
 {"Revenue (in millions)": "125.5", "Company": "Collins & Aikman", "Profit (in millions)": 5.0, "Rank": "447", "Year": "1966"}
 {"Revenue (in millions)": "125.4", "Company": "Roper", "Profit (in millions)": 4.5, "Rank": "448", "Year": "1966"}
+{"Revenue (in millions)": "125.2", "Company": "U.S. Smelting, Refining & Mining", "Profit (in millions)": 7.2, "Rank": "449", "Year": "1966"}
 {"Revenue (in millions)": "125", "Company": "Miehle-Goss-Dexter", "Profit (in millions)": 4.9, "Rank": "450", "Year": "1966"}
 {"Revenue (in millions)": "124.9", "Company": "Certainteed", "Profit (in millions)": 5.6, "Rank": "451", "Year": "1966"}
 {"Revenue (in millions)": "124.7", "Company": "Harbison-Walker Refractories", "Profit (in millions)": 13.4, "Rank": "452", "Year": "1966"}
@@ -6187,6 +6220,7 @@
 {"Revenue (in millions)": "320.3", "Company": "Polaroid", "Profit (in millions)": 48.0, "Rank": "243", "Year": "1967"}
 {"Revenue (in millions)": "319.7", "Company": "Crucible Steel", "Profit (in millions)": 12.4, "Rank": "244", "Year": "1967"}
 {"Revenue (in millions)": "318.4", "Company": "A.O. Smith", "Profit (in millions)": 8.7, "Rank": "245", "Year": "1967"}
+{"Revenue (in millions)": "317.6", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 4.0, "Rank": "246", "Year": "1967"}
 {"Revenue (in millions)": "317.5", "Company": "Gulf & Western Industries", "Profit (in millions)": 20.1, "Rank": "247", "Year": "1967"}
 {"Revenue (in millions)": "315.8", "Company": "Farmland Industries", "Profit (in millions)": 21.5, "Rank": "248", "Year": "1967"}
 {"Revenue (in millions)": "313", "Company": "Ryan Aeronautical", "Profit (in millions)": 6.2, "Rank": "249", "Year": "1967"}
@@ -6253,6 +6287,7 @@
 {"Revenue (in millions)": "241.1", "Company": "Federal-Mogul", "Profit (in millions)": 17.0, "Rank": "310", "Year": "1967"}
 {"Revenue (in millions)": "240.6", "Company": "Safety-Kleen", "Profit (in millions)": 10.7, "Rank": "311", "Year": "1967"}
 {"Revenue (in millions)": "240.1", "Company": "Coltec Industries", "Profit (in millions)": 6.9, "Rank": "312", "Year": "1967"}
+{"Revenue (in millions)": "239.9", "Company": "Parke, Davis", "Profit (in millions)": 31.8, "Rank": "313", "Year": "1967"}
 {"Revenue (in millions)": "239.4", "Company": "Ex-Cell-O", "Profit (in millions)": 19.9, "Rank": "314", "Year": "1967"}
 {"Revenue (in millions)": "235.3", "Company": "CF&I Steel", "Profit (in millions)": 15.6, "Rank": "315", "Year": "1967"}
 {"Revenue (in millions)": "235.2", "Company": "Chemetron", "Profit (in millions)": 16.1, "Rank": "316", "Year": "1967"}
@@ -6408,6 +6443,7 @@
 {"Revenue (in millions)": "140.4", "Company": "Wm. Wrigley Jr.", "Profit (in millions)": 14.7, "Rank": "466", "Year": "1967"}
 {"Revenue (in millions)": "140.2", "Company": "Consolidated Cigar", "Profit (in millions)": 8.9, "Rank": "467", "Year": "1967"}
 {"Revenue (in millions)": "139.5", "Company": "Green Giant", "Profit (in millions)": 4.6, "Rank": "468", "Year": "1967"}
+{"Revenue (in millions)": "139.1", "Company": "U.S. Smelting, Refining & Mining", "Profit (in millions)": 12.9, "Rank": "469", "Year": "1967"}
 {"Revenue (in millions)": "139", "Company": "General Host", "Profit (in millions)": 1.5, "Rank": "470", "Year": "1967"}
 {"Revenue (in millions)": "139", "Company": "Hoerner Waldorf", "Profit (in millions)": 11.1, "Rank": "471", "Year": "1967"}
 {"Revenue (in millions)": "138.5", "Company": "Ceco Industries", "Profit (in millions)": 6.0, "Rank": "472", "Year": "1967"}
@@ -6683,6 +6719,7 @@
 {"Revenue (in millions)": "344.3", "Company": "Fruehauf", "Profit (in millions)": 17.2, "Rank": "242", "Year": "1968"}
 {"Revenue (in millions)": "342.6", "Company": "ACF Industries", "Profit (in millions)": 29.8, "Rank": "243", "Year": "1968"}
 {"Revenue (in millions)": "341.5", "Company": "Hooker Chemical", "Profit (in millions)": 24.2, "Rank": "244", "Year": "1968"}
+{"Revenue (in millions)": "341.1", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 4.2, "Rank": "245", "Year": "1968"}
 {"Revenue (in millions)": "336.8", "Company": "Revere Copper & Brass", "Profit (in millions)": 20.3, "Rank": "246", "Year": "1968"}
 {"Revenue (in millions)": "334.7", "Company": "WestPoint Stevens", "Profit (in millions)": 19.7, "Rank": "247", "Year": "1968"}
 {"Revenue (in millions)": "334.6", "Company": "Midland-Ross", "Profit (in millions)": 15.2, "Rank": "248", "Year": "1968"}
@@ -6759,6 +6796,7 @@
 {"Revenue (in millions)": "243.4", "Company": "Hewlett-Packard", "Profit (in millions)": 20.1, "Rank": "319", "Year": "1968"}
 {"Revenue (in millions)": "243.1", "Company": "Springs Industries", "Profit (in millions)": 6.8, "Rank": "320", "Year": "1968"}
 {"Revenue (in millions)": "242.3", "Company": "A-T-O", "Profit (in millions)": 9.2, "Rank": "321", "Year": "1968"}
+{"Revenue (in millions)": "239.2", "Company": "Parke, Davis", "Profit (in millions)": 21.0, "Rank": "322", "Year": "1968"}
 {"Revenue (in millions)": "238.2", "Company": "Carborundum", "Profit (in millions)": 12.7, "Rank": "323", "Year": "1968"}
 {"Revenue (in millions)": "236.3", "Company": "Rath Packing", "Profit (in millions)": -2.1, "Rank": "324", "Year": "1968"}
 {"Revenue (in millions)": "236.2", "Company": "Pennwalt Corp", "Profit (in millions)": 13.1, "Rank": "325", "Year": "1968"}
@@ -7200,6 +7238,7 @@
 {"Revenue (in millions)": "350.4", "Company": "Times Mirror", "Profit (in millions)": 24.2, "Rank": "261", "Year": "1969"}
 {"Revenue (in millions)": "347.1", "Company": "WestPoint Stevens", "Profit (in millions)": 14.8, "Rank": "262", "Year": "1969"}
 {"Revenue (in millions)": "344.4", "Company": "Paccar", "Profit (in millions)": 14.1, "Rank": "263", "Year": "1969"}
+{"Revenue (in millions)": "344.4", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 5.6, "Rank": "264", "Year": "1969"}
 {"Revenue (in millions)": "343.9", "Company": "Di Giorgio", "Profit (in millions)": 5.8, "Rank": "265", "Year": "1969"}
 {"Revenue (in millions)": "341.7", "Company": "Evans Products", "Profit (in millions)": 8.7, "Rank": "266", "Year": "1969"}
 {"Revenue (in millions)": "341.4", "Company": "National Industries", "Profit (in millions)": 7.2, "Rank": "267", "Year": "1969"}
@@ -7268,6 +7307,7 @@
 {"Revenue (in millions)": "253.2", "Company": "Champion Spark Plug", "Profit (in millions)": 26.2, "Rank": "330", "Year": "1969"}
 {"Revenue (in millions)": "253.1", "Company": "Springs Industries", "Profit (in millions)": 1.9, "Rank": "331", "Year": "1969"}
 {"Revenue (in millions)": "251.4", "Company": "Stokely-Van Camp", "Profit (in millions)": 7.3, "Rank": "332", "Year": "1969"}
+{"Revenue (in millions)": "251", "Company": "Parke, Davis", "Profit (in millions)": 18.6, "Rank": "333", "Year": "1969"}
 {"Revenue (in millions)": "250.4", "Company": "CBI Industries", "Profit (in millions)": 19.5, "Rank": "334", "Year": "1969"}
 {"Revenue (in millions)": "245.3", "Company": "Coastal", "Profit (in millions)": 24.3, "Rank": "335", "Year": "1969"}
 {"Revenue (in millions)": "245.2", "Company": "Rockwell Manufacturing", "Profit (in millions)": 12.5, "Rank": "336", "Year": "1969"}
@@ -7712,6 +7752,7 @@
 {"Revenue (in millions)": "353.3", "Company": "National Industries", "Profit (in millions)": 1.7, "Rank": "275", "Year": "1970"}
 {"Revenue (in millions)": "353.3", "Company": "Hammermill Paper", "Profit (in millions)": 14.1, "Rank": "276", "Year": "1970"}
 {"Revenue (in millions)": "353.1", "Company": "Norton", "Profit (in millions)": 16.1, "Rank": "277", "Year": "1970"}
+{"Revenue (in millions)": "345.6", "Company": "Libby, McNeill & Libby", "Profit (in millions)": -15.1, "Rank": "278", "Year": "1970"}
 {"Revenue (in millions)": "343.8", "Company": "National Gypsum", "Profit (in millions)": 20.4, "Rank": "279", "Year": "1970"}
 {"Revenue (in millions)": "342.8", "Company": "Gould", "Profit (in millions)": 12.9, "Rank": "280", "Year": "1970"}
 {"Revenue (in millions)": "340.3", "Company": "Richardson-Vicks", "Profit (in millions)": 28.2, "Rank": "281", "Year": "1970"}
@@ -7773,6 +7814,7 @@
 {"Revenue (in millions)": "275.3", "Company": "Diversified Industries", "Profit (in millions)": 8.1, "Rank": "337", "Year": "1970"}
 {"Revenue (in millions)": "274.2", "Company": "Chromalloy American", "Profit (in millions)": 16.4, "Rank": "338", "Year": "1970"}
 {"Revenue (in millions)": "273.7", "Company": "CBI Industries", "Profit (in millions)": 7.7, "Rank": "339", "Year": "1970"}
+{"Revenue (in millions)": "273.5", "Company": "Parke, Davis", "Profit (in millions)": 20.7, "Rank": "340", "Year": "1970"}
 {"Revenue (in millions)": "272.5", "Company": "Harsco", "Profit (in millions)": 18.8, "Rank": "341", "Year": "1970"}
 {"Revenue (in millions)": "270.9", "Company": "Anchor Hocking", "Profit (in millions)": 21.0, "Rank": "342", "Year": "1970"}
 {"Revenue (in millions)": "270.2", "Company": "ACF Industries", "Profit (in millions)": 21.2, "Rank": "343", "Year": "1970"}
@@ -7895,6 +7937,7 @@
 {"Revenue (in millions)": "176", "Company": "Hanna Mining", "Profit (in millions)": 24.8, "Rank": "460", "Year": "1970"}
 {"Revenue (in millions)": "175.6", "Company": "Great Northern Nekoosa", "Profit (in millions)": 15.2, "Rank": "461", "Year": "1970"}
 {"Revenue (in millions)": "175.2", "Company": "Freeport Sulphur", "Profit (in millions)": 28.5, "Rank": "462", "Year": "1970"}
+{"Revenue (in millions)": "174.9", "Company": "U.S. Smelting, Refining & Mining", "Profit (in millions)": 21.7, "Rank": "463", "Year": "1970"}
 {"Revenue (in millions)": "173.5", "Company": "Rheingold", "Profit (in millions)": 5.3, "Rank": "464", "Year": "1970"}
 {"Revenue (in millions)": "173", "Company": "Wean United", "Profit (in millions)": 2.2, "Rank": "465", "Year": "1970"}
 {"Revenue (in millions)": "172.3", "Company": "Arvin Industries", "Profit (in millions)": 5.7, "Rank": "466", "Year": "1970"}
@@ -8220,6 +8263,7 @@
 {"Revenue (in millions)": "354.8", "Company": "Flintkote", "Profit (in millions)": 10.1, "Rank": "290", "Year": "1971"}
 {"Revenue (in millions)": "353.5", "Company": "American Beef Packers", "Profit (in millions)": 0.4, "Rank": "291", "Year": "1971"}
 {"Revenue (in millions)": "352.4", "Company": "Hammermill Paper", "Profit (in millions)": 9.4, "Rank": "292", "Year": "1971"}
+{"Revenue (in millions)": "350.7", "Company": "Libby, McNeill & Libby", "Profit (in millions)": -7.7, "Rank": "293", "Year": "1971"}
 {"Revenue (in millions)": "350.6", "Company": "Hygrade Food Products", "Profit (in millions)": 3.7, "Rank": "294", "Year": "1971"}
 {"Revenue (in millions)": "349.6", "Company": "Hershey Foods", "Profit (in millions)": 18.9, "Rank": "295", "Year": "1971"}
 {"Revenue (in millions)": "349", "Company": "Collins Radio", "Profit (in millions)": 0.4, "Rank": "296", "Year": "1971"}
@@ -8709,6 +8753,7 @@
 {"Revenue (in millions)": "385.5", "Company": "Heublein", "Profit (in millions)": 20.2, "Rank": "287", "Year": "1972"}
 {"Revenue (in millions)": "384.5", "Company": "Kelsey-Hayes", "Profit (in millions)": 6.0, "Rank": "288", "Year": "1972"}
 {"Revenue (in millions)": "376.7", "Company": "Bemis", "Profit (in millions)": 6.9, "Rank": "290", "Year": "1972"}
+{"Revenue (in millions)": "375.8", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 12.5, "Rank": "291", "Year": "1972"}
 {"Revenue (in millions)": "375.1", "Company": "Hewlett-Packard", "Profit (in millions)": 23.9, "Rank": "292", "Year": "1972"}
 {"Revenue (in millions)": "374.8", "Company": "Lone Star Industries", "Profit (in millions)": 18.9, "Rank": "293", "Year": "1972"}
 {"Revenue (in millions)": "373.8", "Company": "Warner Communications", "Profit (in millions)": 41.6, "Rank": "294", "Year": "1972"}
@@ -9211,6 +9256,7 @@
 {"Revenue (in millions)": "409.8", "Company": "Great Northern Nekoosa", "Profit (in millions)": 18.2, "Rank": "299", "Year": "1973"}
 {"Revenue (in millions)": "408.6", "Company": "Tecumseh Products", "Profit (in millions)": 23.5, "Rank": "300", "Year": "1973"}
 {"Revenue (in millions)": "408.2", "Company": "WestPoint Stevens", "Profit (in millions)": 10.2, "Rank": "301", "Year": "1973"}
+{"Revenue (in millions)": "407.2", "Company": "Libby, McNeill & Libby", "Profit (in millions)": -0.5, "Rank": "302", "Year": "1973"}
 {"Revenue (in millions)": "402.3", "Company": "US Pharmaceuticals", "Profit (in millions)": 48.9, "Rank": "303", "Year": "1973"}
 {"Revenue (in millions)": "399", "Company": "Stanley Works", "Profit (in millions)": 19.9, "Rank": "304", "Year": "1973"}
 {"Revenue (in millions)": "398.9", "Company": "Springs Industries", "Profit (in millions)": 13.2, "Rank": "305", "Year": "1973"}
@@ -9732,6 +9778,7 @@
 {"Revenue (in millions)": "440.7", "Company": "Avnet", "Profit (in millions)": 21.7, "Rank": "328", "Year": "1974"}
 {"Revenue (in millions)": "436.1", "Company": "ACF Industries", "Profit (in millions)": 25.8, "Rank": "329", "Year": "1974"}
 {"Revenue (in millions)": "435.8", "Company": "Figgie International", "Profit (in millions)": 10.2, "Rank": "330", "Year": "1974"}
+{"Revenue (in millions)": "434.5", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 8.9, "Rank": "331", "Year": "1974"}
 {"Revenue (in millions)": "434.2", "Company": "Allied Mills", "Profit (in millions)": 4.8, "Rank": "332", "Year": "1974"}
 {"Revenue (in millions)": "434.2", "Company": "Stanley Works", "Profit (in millions)": 22.8, "Rank": "333", "Year": "1974"}
 {"Revenue (in millions)": "430", "Company": "National Service Industries", "Profit (in millions)": 22.7, "Rank": "334", "Year": "1974"}
@@ -10257,6 +10304,7 @@
 {"Revenue (in millions)": "466.6", "Company": "MacMillan", "Profit (in millions)": 15.7, "Rank": "361", "Year": "1975"}
 {"Revenue (in millions)": "466.3", "Company": "Baxter International", "Profit (in millions)": 36.3, "Rank": "362", "Year": "1975"}
 {"Revenue (in millions)": "465.9", "Company": "CBI Industries", "Profit (in millions)": 28.5, "Rank": "363", "Year": "1975"}
+{"Revenue (in millions)": "464.7", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 13.5, "Rank": "364", "Year": "1975"}
 {"Revenue (in millions)": "464.1", "Company": "Alumax", "Profit (in millions)": 35.8, "Rank": "365", "Year": "1975"}
 {"Revenue (in millions)": "461.7", "Company": "Square D", "Profit (in millions)": 36.4, "Rank": "366", "Year": "1975"}
 {"Revenue (in millions)": "460.1", "Company": "Louisiana-Pacific", "Profit (in millions)": 56.6, "Rank": "367", "Year": "1975"}
@@ -10743,6 +10791,7 @@
 {"Revenue (in millions)": "477.3", "Company": "MacMillan", "Profit (in millions)": 3.0, "Rank": "354", "Year": "1976"}
 {"Revenue (in millions)": "476.7", "Company": "Tyco Laboratories", "Profit (in millions)": 8.5, "Rank": "355", "Year": "1976"}
 {"Revenue (in millions)": "475.3", "Company": "Crown Central", "Profit (in millions)": 5.5, "Rank": "356", "Year": "1976"}
+{"Revenue (in millions)": "474.8", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 9.8, "Rank": "357", "Year": "1976"}
 {"Revenue (in millions)": "473.2", "Company": "Cooper Industries", "Profit (in millions)": 31.1, "Rank": "358", "Year": "1976"}
 {"Revenue (in millions)": "468.1", "Company": "Rohr", "Profit (in millions)": -7.6, "Rank": "360", "Year": "1976"}
 {"Revenue (in millions)": "467.6", "Company": "Peavey", "Profit (in millions)": 15.2, "Rank": "361", "Year": "1976"}
@@ -11248,6 +11297,7 @@
 {"Revenue (in millions)": "508.3", "Company": "UV Industries", "Profit (in millions)": 34.9, "Rank": "368", "Year": "1977"}
 {"Revenue (in millions)": "505.8", "Company": "Peavey", "Profit (in millions)": 15.6, "Rank": "369", "Year": "1977"}
 {"Revenue (in millions)": "503.9", "Company": "Flintkote", "Profit (in millions)": 8.2, "Rank": "370", "Year": "1977"}
+{"Revenue (in millions)": "502.4", "Company": "Libby, McNeill & Libby", "Profit (in millions)": 3.5, "Rank": "371", "Year": "1977"}
 {"Revenue (in millions)": "501.6", "Company": "Dan River", "Profit (in millions)": 9.5, "Rank": "372", "Year": "1977"}
 {"Revenue (in millions)": "498.5", "Company": "Amsted Industries", "Profit (in millions)": 34.2, "Rank": "373", "Year": "1977"}
 {"Revenue (in millions)": "498.4", "Company": "Revere Copper & Brass", "Profit (in millions)": 2.2, "Rank": "374", "Year": "1977"}
@@ -19708,6 +19758,7 @@
 {"Revenue (in millions)": "11894.6", "Company": "Albertson's", "Profit (in millions)": 400.4, "Rank": "88", "Year": "1995"}
 {"Revenue (in millions)": "11618.5", "Company": "SBC Communications", "Profit (in millions)": 1648.7, "Rank": "89", "Year": "1995"}
 {"Revenue (in millions)": "11521", "Company": "Intel", "Profit (in millions)": 2288.0, "Rank": "90", "Year": "1995"}
+{"Revenue (in millions)": "11506", "Company": "MediaOne Group, Inc.", "Profit (in millions)": 1426.0, "Rank": "91", "Year": "1995"}
 {"Revenue (in millions)": "11374.4", "Company": "Archer Daniels Midland", "Profit (in millions)": 484.1, "Rank": "92", "Year": "1995"}
 {"Revenue (in millions)": "11285.6", "Company": "CVS", "Profit (in millions)": 307.5, "Rank": "93", "Year": "1995"}
 {"Revenue (in millions)": "11204.7", "Company": "Rockwell Automation", "Profit (in millions)": 634.1, "Rank": "94", "Year": "1995"}
@@ -19925,6 +19976,7 @@
 {"Revenue (in millions)": "3702", "Company": "General Dynamics", "Profit (in millions)": 238.0, "Rank": "307", "Year": "1995"}
 {"Revenue (in millions)": "3654", "Company": "Humana", "Profit (in millions)": 176.0, "Rank": "308", "Year": "1995"}
 {"Revenue (in millions)": "3652.9", "Company": "Owens-Illinois", "Profit (in millions)": 78.3, "Rank": "309", "Year": "1995"}
+{"Revenue (in millions)": "3650.3", "Company": "HomeBase, Inc.", "Profit (in millions)": 65.0, "Rank": "310", "Year": "1995"}
 {"Revenue (in millions)": "3649.5", "Company": "GPU", "Profit (in millions)": 163.7, "Rank": "311", "Year": "1995"}
 {"Revenue (in millions)": "3642.7", "Company": "Northeast Utilities", "Profit (in millions)": 286.9, "Rank": "312", "Year": "1995"}
 {"Revenue (in millions)": "3640", "Company": "Harcourt General", "Profit (in millions)": 177.5, "Rank": "313", "Year": "1995"}
@@ -20215,6 +20267,7 @@
 {"Revenue (in millions)": "11787.8", "Company": "Winn-Dixie Stores", "Profit (in millions)": 232.2, "Rank": "103", "Year": "1996"}
 {"Revenue (in millions)": "11787.7", "Company": "Weyerhaeuser", "Profit (in millions)": 798.9, "Rank": "104", "Year": "1996"}
 {"Revenue (in millions)": "11780.2", "Company": "Viacom", "Profit (in millions)": 222.5, "Rank": "105", "Year": "1996"}
+{"Revenue (in millions)": "11746", "Company": "MediaOne Group, Inc.", "Profit (in millions)": 1317.0, "Rank": "106", "Year": "1996"}
 {"Revenue (in millions)": "11716", "Company": "Raytheon", "Profit (in millions)": 792.5, "Rank": "107", "Year": "1996"}
 {"Revenue (in millions)": "11702.4", "Company": "Nationwide", "Profit (in millions)": 182.7, "Rank": "108", "Year": "1996"}
 {"Revenue (in millions)": "11646.2", "Company": "Teachers Insurance & Annuity Assn.", "Profit (in millions)": 752.0, "Rank": "109", "Year": "1996"}
@@ -20421,6 +20474,7 @@
 {"Revenue (in millions)": "4026.6", "Company": "Chiquita Brands Intl.", "Profit (in millions)": 9.2, "Rank": "312", "Year": "1996"}
 {"Revenue (in millions)": "4018.5", "Company": "Service Merchandise", "Profit (in millions)": 50.3, "Rank": "313", "Year": "1996"}
 {"Revenue (in millions)": "4006.7", "Company": "Gannett", "Profit (in millions)": 477.3, "Rank": "314", "Year": "1996"}
+{"Revenue (in millions)": "3978.4", "Company": "HomeBase, Inc.", "Profit (in millions)": 73.0, "Rank": "315", "Year": "1996"}
 {"Revenue (in millions)": "3917.3", "Company": "Niagara Mohawk Holdings", "Profit (in millions)": 248.0, "Rank": "316", "Year": "1996"}
 {"Revenue (in millions)": "3916.6", "Company": "SLM", "Profit (in millions)": 496.4, "Rank": "317", "Year": "1996"}
 {"Revenue (in millions)": "3909.4", "Company": "FHP International", "Profit (in millions)": 37.3, "Rank": "318", "Year": "1996"}
@@ -20702,6 +20756,7 @@
 {"Revenue (in millions)": "13081.4", "Company": "Verizon Communications", "Profit (in millions)": 1881.5, "Rank": "99", "Year": "1997"}
 {"Revenue (in millions)": "13024", "Company": "Georgia-Pacific", "Profit (in millions)": 156.0, "Rank": "100", "Year": "1997"}
 {"Revenue (in millions)": "12955.5", "Company": "Winn-Dixie Stores", "Profit (in millions)": 255.6, "Rank": "101", "Year": "1997"}
+{"Revenue (in millions)": "12911", "Company": "MediaOne Group, Inc.", "Profit (in millions)": 1178.0, "Rank": "102", "Year": "1997"}
 {"Revenue (in millions)": "12601", "Company": "May Dept. Stores", "Profit (in millions)": 755.0, "Rank": "103", "Year": "1997"}
 {"Revenue (in millions)": "12538.8", "Company": "IBP", "Profit (in millions)": 198.7, "Rank": "104", "Year": "1997"}
 {"Revenue (in millions)": "12473", "Company": "Hartford Financial Services", "Profit (in millions)": -99.0, "Rank": "105", "Year": "1997"}
@@ -20912,6 +20967,7 @@
 {"Revenue (in millions)": "4449", "Company": "Praxair", "Profit (in millions)": 282.0, "Rank": "311", "Year": "1997"}
 {"Revenue (in millions)": "4422.7", "Company": "Quantum", "Profit (in millions)": -90.5, "Rank": "312", "Year": "1997"}
 {"Revenue (in millions)": "4387.2", "Company": "Allegiance", "Profit (in millions)": -477.7, "Rank": "313", "Year": "1997"}
+{"Revenue (in millions)": "4375.5", "Company": "HomeBase, Inc.", "Profit (in millions)": 76.7, "Rank": "314", "Year": "1997"}
 {"Revenue (in millions)": "4333", "Company": "CMS Energy", "Profit (in millions)": 240.0, "Rank": "315", "Year": "1997"}
 {"Revenue (in millions)": "4332.3", "Company": "Aquila", "Profit (in millions)": 105.8, "Rank": "316", "Year": "1997"}
 {"Revenue (in millions)": "4293.8", "Company": "PacifiCorp", "Profit (in millions)": 504.9, "Rank": "317", "Year": "1997"}
@@ -21182,6 +21238,7 @@
 {"Revenue (in millions)": "15424", "Company": "ConocoPhillips", "Profit (in millions)": 959.0, "Rank": "84", "Year": "1998"}
 {"Revenue (in millions)": "15399.9", "Company": "PG&E Corp.", "Profit (in millions)": 716.0, "Rank": "85", "Year": "1998"}
 {"Revenue (in millions)": "15372.7", "Company": "Fleming", "Profit (in millions)": 25.4, "Rank": "86", "Year": "1998"}
+{"Revenue (in millions)": "15352", "Company": "MediaOne Group, Inc.", "Profit (in millions)": 697.0, "Rank": "87", "Year": "1998"}
 {"Revenue (in millions)": "15235.6", "Company": "Electronic Data Systems", "Profit (in millions)": 730.6, "Rank": "88", "Year": "1998"}
 {"Revenue (in millions)": "15070", "Company": "3M", "Profit (in millions)": 2121.0, "Rank": "89", "Year": "1998"}
 {"Revenue (in millions)": "14873.9", "Company": "Sprint", "Profit (in millions)": 952.5, "Rank": "90", "Year": "1998"}
