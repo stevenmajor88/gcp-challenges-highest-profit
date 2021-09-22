@@ -8,10 +8,6 @@ filename = 'data.csv'
 
 # reading the data from the file
 
-data = []
-
-
-import csv
 data = list(csv.reader(open(filename)))
 header = data.pop(0)
 
@@ -28,7 +24,7 @@ for row in data:
 			row[-1] = float(row[-1])
 			filtered_data.append(row)
 		except:
-			# if non-numeric
+			# if non-numeric	
 			continue
 
 # second printed answer
